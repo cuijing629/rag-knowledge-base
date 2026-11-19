@@ -1,0 +1,17 @@
+# 环境变量与密钥（必须忽略）
+.env
+.env.*
+
+# Python 虚拟环境
+venv/
+.venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE 配置
+.idea/
+.vscode/
